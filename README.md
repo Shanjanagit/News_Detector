@@ -1,11 +1,11 @@
-## News_Detector
+# News_Detector
 This is a news detector which detects whether the input news given by the user is a Fake news or a True news.
 
-# Fake News Detector
+## Fake News Detector
 A Machine Learning project to classify news articles as Fake or True using Natural Language Processing (NLP) techniques.
 
 
-# Installation
+## Installation
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -29,22 +29,22 @@ b. Decision Tree classifier
 c. Gradient boosting classifier
 d. Random Forest Classifier
 
-# Data Exploration
+## Data Exploration
 Explored the True and Fake dataset using the head, tail, info methods
 
-# EDA
+## EDA
 Analyzed the EDA apporoach through checking the null values, duplicated values.
 
-# Data Preprocessing
+## Data Preprocessing
 Here comes the text classification task as here similar words has been collected and classified using the embedding algorithm TFIDF - Vectorizer. 
 
-# Data training
+## Data training
 The training has been done through 4 main algorithms were three algorithms were classification algorithms used for dealing with numeric data and one regression algorithm used for dealing with categorical data.
 
-# Evaluation of model performance
+## Evaluation of model performance
 A final function has been developed which checks whether the input given by the user is Fake news or not a fake news.
 
-# Visualization Techniques
+## Visualization Techniques
 The visualization can be done through the implementation of matplotlib and seaborn
 
 ## Dataset 
