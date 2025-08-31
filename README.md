@@ -22,7 +22,7 @@ from sklearn.model_selection import train_test_split
 1. Text preprocessing - For this the Regex has been used to remove the unwanted punctuation marks and for removing the spaces.
 2. TF-IDF vectorization for dealing feature extraction
 3. Used 4 main models for training the model and to develop best results for any input and to predict proper results.
-Through the following models, achived an accuracy of # 99%.
+Through the following models, achived an accuracy of 99%.
 The models which has been used for this are:
 a. Logistic Regression
 b. Decision Tree classifier
@@ -36,8 +36,7 @@ Explored the True and Fake dataset using the head, tail, info methods
 Analyzed the EDA apporoach through checking the null values, duplicated values.
 
 # Data Preprocessing
-Here comes the text classification task as here similar words has been collected and classified using the embedding algorithm 
-# TFIDF - Vectorizer. 
+Here comes the text classification task as here similar words has been collected and classified using the embedding algorithm TFIDF - Vectorizer. 
 
 # Data training
 The training has been done through 4 main algorithms were three algorithms were classification algorithms used for dealing with numeric data and one regression algorithm used for dealing with categorical data.
